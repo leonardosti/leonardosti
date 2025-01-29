@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosti&theme=midnight-purple&show_icons=true)
-
 <!--
 **leonardosti/leonardosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center" >  
+  <a href="https://github.com/leonardosti/github-readme-stats"> 
+  <a href="https://github.com/leonardosti"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=leonardosti&theme=midnight-purple&show_icons=true"/>
+  </a>
+</p>
